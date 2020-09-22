@@ -1,0 +1,32 @@
+html, body
+{
+  height: 100%;
+
+  text-align:center; 
+
+}
+#map-id {
+  width: 800px;
+  height:800px;
+  align: center;
+  display: block;
+
+}
+
+
+
+#map-holder{
+    height: 100%;
+}
+
+.fill
+{
+    min-height: 100%;
+    height: 100%;
+    width: 100%;
+    max-width: 100%;
+}
+
+.container{
+    padding: 0.2em;
+}
