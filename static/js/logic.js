@@ -83,7 +83,7 @@ d3.json(link, function (data) {
         }
       });
       // Giving each feature a pop-up with information pertinent to it
-      layer.bindPopup("<h1>" + feature.properties.ParkName + "</h1> <hr> <h2>" + "Park Size: " + feature.properties.Shape__Area + " ftsq" + "</h2>");
+      layer.bindPopup("<h3>" + feature.properties.ParkName + "</h3> <hr> <h3>" + "Park Size: " + feature.properties.Shape__Area + " ftsq" + "</h3>");
 
     }
   }).addTo(myMap)
