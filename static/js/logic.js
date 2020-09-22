@@ -1,7 +1,7 @@
 // Creating map object
 var myMap = L.map("map-id", {
   center: [37.54, -77.45],
-  zoom: 15
+  zoom: 10
 });
 
 // Adding tile layer
@@ -95,12 +95,45 @@ d3.json(link, function (data) {
 
 
 
-function createEMS() {
-  d3.csv('/static/js/emergency.csv', function (d) {
-    emergencies = omnivore.csv('/static/js/emergency.csv').addTo(myMap);
+// function createEMS() {
+//   d3.csv('/static/js/emergency.csv', function (d) {
+//     emergencies = omnivore.csv('static/js/emergency.csv')
+//       .bindPopup("<h3>" + d.Name + "<h3><h3>Type: " + d.Type + "</h3>")
+//       .addTo(myMap);
+//     console.log(d.Name)
+//     console.log(d)
 
-  });
+//   });
+// }
+
+var eMap = 'https://althea1900.github.io/project-2/static/js/csvjson.json'
+function createEMS() {
+  function createMarkers(response) {
+    // Pull the "stations" property off of response.data
+    var stations = response.places;
+
+    // Initialize an array to hold bike markers
+    var bikeMarkers = [];
+  
+    // Loop through the stations array
+    for (var index = 0; index < stations.length; index++) {
+      var station = stations[index];
+  
+      // For each station, create a marker and bind a popup with the station's name
+      var bikeMarker = L.marker([station.Latitude, station.Longitude])
+        .bindPopup("<h3>" + station.Name + "<h3><h3>Type: " + station.Type + "</h3>").addTo(myMap);
+        // Add the marker to the bikeMarkers array
+      bikeMarkers.push(bikeMarker);
+      console.log(station.Name)
+    }
+  
+    // Create a layer group made from the bike markers array, pass it into the createMap function
+  }
+  
+  d3.json(eMap, createMarkers)
+
 }
+
 
 function refreshPage(){
   window.location.reload(true)
