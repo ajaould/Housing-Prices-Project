@@ -1,0 +1,364 @@
+{
+  "places": [
+  {
+    "Name": "Chippenham Hospital",
+    "Longitude": -77.5263523,
+    "Latitude": 37.5138861,
+    "Type": "Hospital"
+  },
+  {
+    "Name": "Bon Secours St. Mary's Hospital",
+    "Longitude": -77.5123101,
+    "Latitude": 37.5836196,
+    "Type": "Hospital"
+  },
+  {
+    "Name": "Ms. Cynthia Schieck",
+    "Longitude": -77.526097,
+    "Latitude": 37.51568299999999,
+    "Type": "Hospital"
+  },
+  {
+    "Name": "Bon Secours Advanced Heart Failure Center",
+    "Longitude": -77.5133841,
+    "Latitude": 37.5835123,
+    "Type": "Hospital"
+  },
+  {
+    "Name": "VCU Medical Center Pediatric ICU",
+    "Longitude": -77.4295959,
+    "Latitude": 37.540184,
+    "Type": "Hospital"
+  },
+  {
+    "Name": "VCU Center for Craniofacial Care",
+    "Longitude": -77.4510006,
+    "Latitude": 37.57091509999999,
+    "Type": "Hospital"
+  },
+  {
+    "Name": "Health Brigade",
+    "Longitude": -77.4792556,
+    "Latitude": 37.5675608,
+    "Type": "Hospital"
+  },
+  {
+    "Name": "VCU Medical Center West Hospital",
+    "Longitude": -77.4303639,
+    "Latitude": 37.5394668,
+    "Type": "Hospital"
+  },
+  {
+    "Name": "Vibra Hospital of Richmond",
+    "Longitude": -77.4907046,
+    "Latitude": 37.5906307,
+    "Type": "Hospital"
+  },
+  {
+    "Name": "Richmond Community Hospital",
+    "Longitude": -77.4067922,
+    "Latitude": 37.5404075,
+    "Type": "Hospital"
+  },
+  {
+    "Name": "Richmond City Health District",
+    "Longitude": -77.440705,
+    "Latitude": 37.5405104,
+    "Type": "Hospital"
+  },
+  {
+    "Name": "Retreat Doctors' Hospital",
+    "Longitude": -77.4728112,
+    "Latitude": 37.5537882,
+    "Type": "Hospital"
+  },
+  {
+    "Name": "CJW Med Center-Chippenham Campus",
+    "Longitude": -77.5263617,
+    "Latitude": 37.51388600000001,
+    "Type": "Hospital"
+  },
+  {
+    "Name": "Vcu Health System Authority",
+    "Longitude": -77.4386148,
+    "Latitude": 37.539985,
+    "Type": "Hospital"
+  },
+  {
+    "Name": "Student Health Center",
+    "Longitude": -77.5407164,
+    "Latitude": 37.5716519,
+    "Type": "Hospital"
+  },
+  {
+    "Name": "Central Virginia Health Network",
+    "Longitude": -77.4631309,
+    "Latitude": 37.55786980000001,
+    "Type": "Hospital"
+  },
+  {
+    "Name": "Choice Care Advantage MD LLC",
+    "Longitude": -77.50783299999999,
+    "Latitude": 37.575241,
+    "Type": "Hospital"
+  },
+  {
+    "Name": "HCA Virginia Health System",
+    "Longitude": -77.5262813,
+    "Latitude": 37.5142852,
+    "Type": "Hospital"
+  },
+  {
+    "Name": "DaVita Forest Hill Avenue Dialysis",
+    "Longitude": -77.48950719999999,
+    "Latitude": 37.5213099,
+    "Type": "Hospital"
+  },
+  {
+    "Name": "Bon Secours Richmond Community Hospital",
+    "Longitude": -77.4069749,
+    "Latitude": 37.5402473,
+    "Type": "Hospital"
+  },
+  {
+    "Name": "Fire Station Number 8",
+    "Longitude": -77.4041654,
+    "Latitude": 37.5150499,
+    "Type": "Fire"
+  },
+  {
+    "Name": "Richmond Fire Support Services",
+    "Longitude": -77.4353469,
+    "Latitude": 37.54367899999999,
+    "Type": "Fire"
+  },
+  {
+    "Name": "Richmond Fire Station #10",
+    "Longitude": -77.46082539999999,
+    "Latitude": 37.5599256,
+    "Type": "Fire"
+  },
+  {
+    "Name": "Richmond Fire Department Headquarters",
+    "Longitude": -77.4418343,
+    "Latitude": 37.54255390000001,
+    "Type": "Fire"
+  },
+  {
+    "Name": "Fire Marshal",
+    "Longitude": -77.439705,
+    "Latitude": 37.5453063,
+    "Type": "Fire"
+  },
+  {
+    "Name": "Volunteer Emergency",
+    "Longitude": -77.49561179999999,
+    "Latitude": 37.5807571,
+    "Type": "Fire"
+  },
+  {
+    "Name": "Henrico Fire Station 7 Glenwood Farms",
+    "Longitude": -77.3916989,
+    "Latitude": 37.5754216,
+    "Type": "Fire"
+  },
+  {
+    "Name": "Henrico County Division of Fire, Station 1",
+    "Longitude": -77.4206623,
+    "Latitude": 37.60209,
+    "Type": "Fire"
+  },
+  {
+    "Name": "Richmond Fire Station 17",
+    "Longitude": -77.45667900000001,
+    "Latitude": 37.5213098,
+    "Type": "Fire"
+  },
+  {
+    "Name": "Richmond Virginia Engine 11 Church Hill",
+    "Longitude": -77.4078177,
+    "Latitude": 37.5382044,
+    "Type": "Fire"
+  },
+  {
+    "Name": "Richmond Fire Station 20",
+    "Longitude": -77.487043,
+    "Latitude": 37.52106,
+    "Type": "Fire"
+  },
+  {
+    "Name": "Richmond Fire Station 1",
+    "Longitude": -77.4197222,
+    "Latitude": 37.5325,
+    "Type": "Fire"
+  },
+  {
+    "Name": "Richmond Volunteer Rescue Squad",
+    "Longitude": -77.492665,
+    "Latitude": 37.580104,
+    "Type": "Fire"
+  },
+  {
+    "Name": "Richmond Fire Station",
+    "Longitude": -77.4700995,
+    "Latitude": 37.5492631,
+    "Type": "Fire"
+  },
+  {
+    "Name": "Richmond Fire Station",
+    "Longitude": -77.4041452,
+    "Latitude": 37.5149949,
+    "Type": "Fire"
+  },
+  {
+    "Name": "Richmond Fire Station #13",
+    "Longitude": -77.4378382,
+    "Latitude": 37.5184888,
+    "Type": "Fire"
+  },
+  {
+    "Name": "Richmond Fire Station 15",
+    "Longitude": -77.4212325,
+    "Latitude": 37.5666523,
+    "Type": "Fire"
+  },
+  {
+    "Name": "Richmond Chief Fire Marshal",
+    "Longitude": -77.4353469,
+    "Latitude": 37.54367899999999,
+    "Type": "Fire"
+  },
+  {
+    "Name": "Richmond Fire Station #14",
+    "Longitude": -77.4439773,
+    "Latitude": 37.5718023,
+    "Type": "Fire"
+  },
+  {
+    "Name": "Richmond Fire Station 18",
+    "Longitude": -77.48492499999999,
+    "Latitude": 37.56217109999999,
+    "Type": "Fire"
+  },
+  {
+    "Name": "Richmond Sheriff's Office",
+    "Longitude": -77.433212,
+    "Latitude": 37.542434,
+    "Type": "Police"
+  },
+  {
+    "Name": "Virginia State Crime Commission",
+    "Longitude": -77.43195399999999,
+    "Latitude": 37.539211,
+    "Type": "Police"
+  },
+  {
+    "Name": "Richmond City Sheriff's Office",
+    "Longitude": -77.4233773,
+    "Latitude": 37.5461888,
+    "Type": "Police"
+  },
+  {
+    "Name": "City of Richmond Virginia (City Hall)",
+    "Longitude": -77.4327203,
+    "Latitude": 37.5412696,
+    "Type": "Police"
+  },
+  {
+    "Name": "Secretary of Public Safety",
+    "Longitude": -77.43196130000001,
+    "Latitude": 37.5392134,
+    "Type": "Police"
+  },
+  {
+    "Name": "Richmond Police Department-Training",
+    "Longitude": -77.4498046,
+    "Latitude": 37.5645322,
+    "Type": "Police"
+  },
+  {
+    "Name": "Sheriff's Office-Civil Process",
+    "Longitude": -77.433212,
+    "Latitude": 37.542434,
+    "Type": "Police"
+  },
+  {
+    "Name": "Richmond Police Department 3rd Precinct",
+    "Longitude": -77.4672173,
+    "Latitude": 37.54634420000001,
+    "Type": "Police"
+  },
+  {
+    "Name": "Richmond Police Department First Precinct",
+    "Longitude": -77.4122532,
+    "Latitude": 37.5383007,
+    "Type": "Police"
+  },
+  {
+    "Name": "VCU Community Police Office",
+    "Longitude": -77.4529644,
+    "Latitude": 37.5450878,
+    "Type": "Police"
+  },
+  {
+    "Name": "Richmond Police Headquarters Information Services",
+    "Longitude": -77.44464959999999,
+    "Latitude": 37.5463451,
+    "Type": "Police"
+  },
+  {
+    "Name": "Capitol Police",
+    "Longitude": -77.43332520000001,
+    "Latitude": 37.5375444,
+    "Type": "Police"
+  },
+  {
+    "Name": "Fourth Police Precinct",
+    "Longitude": -77.4433672,
+    "Latitude": 37.5635098,
+    "Type": "Police"
+  },
+  {
+    "Name": "MCSO Compensation Fund",
+    "Longitude": -77.414467,
+    "Latitude": 37.51644769999999,
+    "Type": "Police"
+  },
+  {
+    "Name": "Virginia Center For Policing Innovation",
+    "Longitude": -77.45769299999999,
+    "Latitude": 37.5519694,
+    "Type": "Police"
+  },
+  {
+    "Name": "Richmond Police-Media Relation",
+    "Longitude": -77.44464959999999,
+    "Latitude": 37.5463451,
+    "Type": "Police"
+  },
+  {
+    "Name": "Richmond Police Chief",
+    "Longitude": -77.44464959999999,
+    "Latitude": 37.5463451,
+    "Type": "Police"
+  },
+  {
+    "Name": "Richmond Police Detective Division",
+    "Longitude": -77.44464959999999,
+    "Latitude": 37.5463451,
+    "Type": "Police"
+  },
+  {
+    "Name": "Richmond Police Department Second Precinct",
+    "Longitude": -77.4818907,
+    "Latitude": 37.5066358,
+    "Type": "Police"
+  },
+  {
+    "Name": "Richmond Emergency Management",
+    "Longitude": -77.441736,
+    "Latitude": 37.5425477,
+    "Type": "Police"
+  }
+  ]
+}
