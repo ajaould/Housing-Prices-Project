@@ -17,7 +17,7 @@ We have made a heat map of the Richmond housing prices as our base, with the abi
 * **Coding Approach**:
 1.	Locating the actual data we required to demonstrate out story
 2.	Data manipulations
-    -	We utilized jupiter notebooks to create dataframes and PostgreSQL to condense the data to the Richmond area
+    -	We utilized jupiter notebooks to create dataframes and pgAdmin with PostgreSQL to condense the data to the Richmond area
     -	We also worked with D3, Json and GeoJson files along with and Leafleaf JS to build our final visulizations
 3.	Finally, we deployed our site to the web using Heroku
 
