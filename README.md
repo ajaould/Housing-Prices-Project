@@ -25,7 +25,7 @@ We have made a heat map of the Richmond housing prices as our base, with the abi
 * **Conclusion**:
 1. Housing prices is more of a prediction of access to emergency services than access to public green space.
 2. However we did detect a disparity in the size of the public green spaces
-3. Futher research could be done to determine if housing price is a predictor of the size of the public green space near the home.
+3. Futher research could be done to determine if housing price is a predictor of the size of the public green space available.
 - - -
 
 
