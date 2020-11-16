@@ -14,8 +14,8 @@ We have made a heat map of the Richmond housing prices as our base, with the abi
 2.	Virginia Department of Conservation and Recreation for parks data: - https://richmond-geo-hub-cor.hub.arcgis.com/datasets/parks-2
 3.	Google API for emergency services data: - https://maps.googleapis.com/maps/api/place/nearbysearch/json
 
-* **Coding Approach**:
-1.	Locating the actual data we required to demonstrate out story
+* **Project Approach**:
+1.	Locate data needed for visualization
 2.	Data manipulations
     -	We utilized jupiter notebooks to create dataframes and pgAdmin with PostgreSQL to condense the data to the Richmond area
     -	We also worked with D3, Json and GeoJson files along with and Leafleaf JS to build our final visulizations
