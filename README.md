@@ -1,4 +1,4 @@
-# Project 2 - Richmond Access to Emergency and Public Green Space based on Housing Prices
+# Project 2 - Showing Access to Emergency and Public Green Space based on Housing Prices in the Richmond, Virginia area
 
 * **Team Members**:
     - Aja Ould
