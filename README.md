@@ -22,7 +22,7 @@ We have made a heat map of the Richmond housing prices as our base, with the abi
     -   We built an HTML site to display the visualization.
 3.	Finally, we deployed our site to the web using Heroku
 
-
+![](Image/capture.PNG)
 * **Conclusion**:
 1. Housing prices is more of a prediction of access to emergency services than access to public green space.
 2. We did detect a disparity in the size of the public green spaces compared to housing prices.
